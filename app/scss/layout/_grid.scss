@@ -20,12 +20,12 @@
 
 	&__main {
 		background-color: hsl(175, 100%, 50%);
-		color: black;
+		color: rgb(28, 28, 28);
 	}
 
 	&__sidebar {
 		background-color: hsl(300, 100%, 50%);
-		color: ;
+		color: rgb(28, 28, 28);
 		text-align: center;
 
 		@include u.breakpoint(large) {
