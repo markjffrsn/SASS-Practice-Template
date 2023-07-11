@@ -19,11 +19,13 @@
 	}
 
 	&__main {
-		background-color: hsl(240, 100%, 30%);
+		background-color: hsl(175, 100%, 50%);
+		color: black;
 	}
 
 	&__sidebar {
-		background-color: hsl(300, 100%, 30%);
+		background-color: hsl(300, 100%, 50%);
+		color: ;
 		text-align: center;
 
 		@include u.breakpoint(large) {
